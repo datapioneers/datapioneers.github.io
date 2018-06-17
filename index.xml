@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Pioneers</title>
+    <title>Data Pioneers 2018</title>
     <link>https://datapioneers.tech/</link>
-    <description>Recent content on Data Pioneers</description>
+    <description>Recent content on Data Pioneers 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="https://datapioneers.tech/index.xml" rel="self" type="application/rss+xml" />
