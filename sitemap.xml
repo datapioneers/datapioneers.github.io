@@ -3,17 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://datapioneers.tech/categories/</loc>
+    <loc>./privacy/</loc>
+  </url>
+  
+  <url>
+    <loc>./categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://datapioneers.tech/</loc>
+    <loc>./</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://datapioneers.tech/tags/</loc>
+    <loc>./tags/</loc>
     <priority>0</priority>
   </url>
   
